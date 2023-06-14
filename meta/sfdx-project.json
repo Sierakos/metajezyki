@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "meta",
+  "name": "Projekt Metajezyki",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "57.0"
+  "sourceApiVersion": "56.0"
 }
